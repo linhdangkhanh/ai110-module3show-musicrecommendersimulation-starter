@@ -9,3 +9,11 @@ id,title,artist,genre,mood,energy,tempo_bpm,valence,danceability,acousticness
 8,Night Drive Loop,Neon Echo,synthwave,moody,0.75,110,0.49,0.73,0.22
 9,Focus Flow,LoRoom,lofi,focused,0.40,80,0.59,0.60,0.78
 10,Rooftop Lights,Indigo Parade,indie pop,happy,0.76,124,0.81,0.82,0.35
+11,Golden Hour Drive,Sunset Riders,country,romantic,0.62,105,0.88,0.70,0.75
+12,Bass Drop Anthem,Circuit Breaker,electronic,energetic,0.95,140,0.72,0.91,0.03
+13,Whiskey Blues,Delta Shake,blues,sad,0.45,85,0.32,0.48,0.82
+14,Phantom Waltz,Vienna Ghosts,classical,nostalgic,0.33,68,0.55,0.30,0.95
+15,Street Cipher,Microphone Fiend,hip-hop,angry,0.88,95,0.40,0.85,0.08
+16,Ocean Breeze,Coastal Waves,reggae,uplifting,0.58,100,0.90,0.74,0.60
+17,Neon Requiem,Void Signal,metal,dark,0.97,165,0.25,0.55,0.02
+18,Porch Swing Evenings,Willow Creek,folk,relaxed,0.38,82,0.78,0.42,0.93
